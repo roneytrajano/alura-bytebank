@@ -1,0 +1,6 @@
+C:\Users\ry1621\Documents\Visual Studio 2012\Projects\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\ry1621\Documents\Visual Studio 2012\Projects\ByteBank\ByteBank\obj\Debug\ByteBank.csprojResolveAssemblyReference.cache
+C:\Users\ry1621\Documents\Visual Studio 2012\Projects\ByteBank\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\ry1621\Documents\Visual Studio 2012\Projects\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\ry1621\Documents\Visual Studio 2012\Projects\ByteBank\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\ry1621\Documents\Visual Studio 2012\Projects\ByteBank\ByteBank\obj\Debug\ByteBank.pdb
